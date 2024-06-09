@@ -43,7 +43,7 @@
 include/divisible/*
 
 *.idx
-TestApp
+##TestApp
 
 ## Local 
 
